@@ -1,0 +1,1 @@
+cmd_/home/nando-benrlitom/Downloads/android/kernel_merlinx_base_los-20/tools/objtool/arch/x86/objtool-in.o :=  ld -r -o /home/nando-benrlitom/Downloads/android/kernel_merlinx_base_los-20/tools/objtool/arch/x86/objtool-in.o  /home/nando-benrlitom/Downloads/android/kernel_merlinx_base_los-20/tools/objtool/arch/x86/decode.o

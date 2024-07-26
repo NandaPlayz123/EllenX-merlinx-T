@@ -1,0 +1,1 @@
+cmd_/home/nando-benrlitom/Downloads/android/kernel_merlinx_base_los-20/tools/objtool/fixdep-in.o :=  ld -r -o /home/nando-benrlitom/Downloads/android/kernel_merlinx_base_los-20/tools/objtool/fixdep-in.o  /home/nando-benrlitom/Downloads/android/kernel_merlinx_base_los-20/tools/objtool/fixdep.o
